@@ -1,4 +1,4 @@
-## **Projeto Livracultura (demo)**
+## **Projeto Livracultura (demo) - imersão dev_**
 
 ### **Livracultura: Sua livraria virtual, sempre aberta!** 
 
